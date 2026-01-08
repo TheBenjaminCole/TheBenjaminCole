@@ -8,11 +8,8 @@ My work reflects a strong interest in vulnerability management, threat detection
 
 ## 🛡️ Vulnerability Management Projects
 Projects in this section focus on identifying, prioritizing, and remediating security weaknesses in a structured, repeatable way, mirroring enterprise vulnerability management programs.
-* **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+* **[Vulnerability Management Program Implementation](https://github.com/TheBenjaminCole/vulnerability-management-program)**
   End-to-end design of a vulnerability management lifecycle, including discovery, risk scoring, remediation workflows, and reporting.
-
-* **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
-  Automated remediation techniques using scripting to reduce exposure, improve consistency, and minimize manual effort.
 
 ---
 
