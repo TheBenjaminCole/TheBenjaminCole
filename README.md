@@ -7,7 +7,7 @@ My work reflects a strong interest in vulnerability management, threat detection
 ---
 
 ## 🛡️ Vulnerability Management Projects
-Projects in this section focus on identifying, prioritizing, and remediating security weaknesses in a structured, repeatable way—mirroring enterprise vulnerability management programs.
+Projects in this section focus on identifying, prioritizing, and remediating security weaknesses in a structured, repeatable way, mirroring enterprise vulnerability management programs.
 * **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
   End-to-end design of a vulnerability management lifecycle, including discovery, risk scoring, remediation workflows, and reporting.
 
