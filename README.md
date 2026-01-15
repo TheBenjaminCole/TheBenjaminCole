@@ -17,7 +17,7 @@ Projects in this section focus on identifying, prioritizing, and remediating sec
 
 This section highlights projects centered on detecting suspicious activity, analyzing adversary behavior, and supporting security operations workflows.
 
-* **[Threat Hunting Scenario (Tor Browser Usage)]** In Progress
+* **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/TheBenjaminCole/threat-hunting-scenario-tor)**
   A structured threat-hunting exercise focused on identifying anonymization techniques and assessing potential malicious intent.
 
 ---
